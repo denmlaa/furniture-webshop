@@ -12,3 +12,6 @@ You need to create a database named "furniture_webShop" in your local MySQL data
 Note: There is a furniture_webShop.sql file in sql directory, which execute and insert a user 'root' with password 'root'.
 spring.datasource.username and spring.datasource.password is also set to root & root in application.properties.
 spring.jpa.hibernate.ddl-auto is set to "create" for testing.
+
+# Goals
+Planning to modify frontend part of application, provide log in mechanism for users and make shopping cart.
